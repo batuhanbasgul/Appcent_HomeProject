@@ -6,18 +6,16 @@
 
 
 ## Model:
-```
-* Arhcitecture: MVVM
-```
+* "Arhcitecture: MVVM"
 
 ## Dependencies:
-```
-* RxJava
-* Lifecycle
-* Retrofit
-* Gson
-* Glide
-```
+
+* "RxJava"
+* "Lifecycle"
+* "Retrofit"
+* "Gson"
+* "Glide"
+
 
 ## Authors
 * **Batuhan BASGUL** - [batuhanbasgul](https://github.com/batuhanbasgul?tab=repositories)
