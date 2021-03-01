@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Appcent_HomeProject</string>
+
+    //Vehicles
+    <string name="vehicle_curiosity">Curiosity</string>
+    <string name="vehicle_opportunity">Opportunity</string>
+    <string name="vehicle_spirit">Spirit</string>
+
+    //Cameras
+    <string name="camera_0">All</string>
+    <string name="camera_1">Front Hazard Avoidance Camera</string>
+    <string name="camera_2">Rear Hazard Avoidance Camera</string>
+    <string name="camera_3">Mast Camera</string>
+    <string name="camera_4">Chemistry and Camera Complex</string>
+    <string name="camera_5">Mars Hand Lens Imager</string>
+    <string name="camera_6">Mars Descent Imager</string>
+    <string name="camera_7">Navigation Camera</string>
+    <string name="camera_8">Panoramic Camera</string>
+    <string name="camera_9">Miniature Thermal Emission Spectrometer(Mini-TES)</string>
+
+    //Camera Short Names
+    <string name="camera_short_0">ALL</string>
+    <string name="camera_short_1">FHAZ</string>
+    <string name="camera_short_2">RHAZ</string>
+    <string name="camera_short_3">MAST </string>
+    <string name="camera_short_4">CHEMCAM</string>
+    <string name="camera_short_5">MAHLI</string>
+    <string name="camera_short_6">MARDI</string>
+    <string name="camera_short_7">NAVCAM</string>
+    <string name="camera_short_8">PANCAM</string>
+    <string name="camera_short_9">MINITES</string>
+
+    //Properties
+    <string name="property_0">Null</string>
+    <string name="property_1">Çekildiği Tarih</string>
+    <string name="property_2">Araç Adı</string>
+    <string name="property_3">Kamera</string>
+    <string name="property_4">Araç Durumu </string>
+    <string name="property_5">Fırlatma Tarihi</string>
+    <string name="property_6">İniş Tarihi</string>
+
+    //Errors
+    <string name="list_empty">Kriterlere uygun resim bulunamadı.</string>
+
+</resources>
