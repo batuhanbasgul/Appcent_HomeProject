@@ -14,7 +14,7 @@ Filters photos by camera type and rovers.
 
 * RxJava
 * Lifecycle
-* Retrofit
+* Retrofit/OkHttp
 * Gson
 * Glide
 
