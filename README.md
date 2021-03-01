@@ -2,7 +2,7 @@
 
 Rover Photos from Mars. This project has made for **Appcent** as a test project.
 
-Basically fetches live data from **NASA**'s Web Service, [Mars Rover Photos](https://api.nasa.gov/index.html#browseAPI).
+Basically fetches live data from [**NASA**](https://api.nasa.gov/index.html#browseAPI)'s Web Service, Mars Rover Photos.
 
 Filters photos by camera type and rovers.
 
